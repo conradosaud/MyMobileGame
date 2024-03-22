@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50ba1c8cfb6422cb8a7ac31ea3227ec8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200159
+  packageName: Virtual Buttons for Unity
+  packageVersion: 1.0.0
+  assetPath: Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/SceneExample.unity
+  uploadId: 445799

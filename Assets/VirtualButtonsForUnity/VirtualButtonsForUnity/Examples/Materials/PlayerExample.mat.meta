@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b701fc732bfd6e76f8b81a2514e0753f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200159
+  packageName: Virtual Buttons for Unity
+  packageVersion: 1.0.0
+  assetPath: Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/Materials/PlayerExample.mat
+  uploadId: 445799

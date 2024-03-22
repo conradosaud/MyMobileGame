@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ed2f7e1ca694477a5a5f9f0d35c6d395
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200159
+  packageName: Virtual Buttons for Unity
+  packageVersion: 1.0.0
+  assetPath: Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualButton.cs
+  uploadId: 445799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b98e6aa87e2353b59a8ef18a76c8fb0
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200159
+  packageName: Virtual Buttons for Unity
+  packageVersion: 1.0.0
+  assetPath: Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualButtonsScripts.asmdef
+  uploadId: 445799
